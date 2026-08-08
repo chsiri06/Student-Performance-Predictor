@@ -1,12 +1,7 @@
-# Student Performance Predictor (ML Pipeline)
+# Student Performance Predictor
+A machine learning project that predicts whether a student is likely to pass or fail based on academic and lifestyle factors such as attendance, study hours, previous exam scores, sleep, parental support, and extracurricular activities.
 
-Predicts whether a student will **pass or fail** using classification models
-trained on academic and lifestyle features (study hours, attendance,
-previous scores, parental support, sleep, etc.).
-
-This is the machine learning counterpart to the web-based Student
-Performance Predictor — this script trains and evaluates real models on
-data, rather than using a fixed scoring formula.
+The project includes a complete machine learning pipeline covering data preprocessing, exploratory data analysis (EDA), model training, evaluation, and visualization.
 
 ## Pipeline
 
